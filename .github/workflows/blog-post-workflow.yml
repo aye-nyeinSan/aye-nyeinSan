@@ -15,6 +15,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in dev.to posts
-        uses: ayenyeinsan/blog-post-workflow@v1
+        uses: aye-nyeinSan/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/ayenyeinsan,https://ayenyeinsan.medium.com/feed"
