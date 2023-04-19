@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aye-nyeinSan
-- :crystal_ball: I'm currently an undergraduate software engineering student at [College of Arts, Media and Technology](https://www.camt.cmu.ac.th/index.php/en/) in [Chiang Mai University](https://cmu.ac.th/en/)
+- :crystal_ball: I'm currently undergraduate software engineering student at [College of Arts, Media and Technology](https://www.camt.cmu.ac.th/index.php/en/) in [Chiang Mai University](https://cmu.ac.th/en/)
 - 👀 I’m interested in creating things and automating .
 - 🌱 I’m currently learning java,python,javascript(nodejs) .
 - 💞️ I’m looking to collaborate on a project to gain experiences working with other developers .
