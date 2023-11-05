@@ -14,8 +14,7 @@
 <h3><strong> 📙 Latest Blog Posts<strong></h3>
   
 <!-- BLOG-POST-LIST:START -->
-- [Basic Git Useages and Commands Explaining](https://flying-actor-090.notion.site/Git-7563c18ae97c416dacd46d491232cd66?pvs=4)
-- [How to give proper version to your software project](https://ayenyeinsan.medium.com/how-to-give-proper-version-to-your-software-project-123fd45541d4?source=rss-fecea3abd0c2------2)
+- [ Git Useages and Commands Explaining](https://flying-actor-090.notion.site/Git-7563c18ae97c416dacd46d491232cd66?pvs=4)
 - [How to Create a Cloud VPN with AWS](https://aws.plainenglish.io/how-to-create-your-own-cloud-vpn-with-aws-d58868221806?source=rss-fecea3abd0c2------2)
 - [How to go back directory in Nodejs?](https://dev.to/ayenyeinsan/how-to-go-back-directory-in-nodejs-gg3)
 <!-- BLOG-POST-LIST:END -->
