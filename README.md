@@ -10,7 +10,8 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aye-NyeinSan&layout=compact)](https://github.com/aye-nyeinSan/github-readme-stats)
-<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/BrushSoWhat.png" alt="TryHackMe">
+
 <h3><strong> 📙 Latest Blog Posts<strong></h3>
   
 <!-- BLOG-POST-LIST:START -->
