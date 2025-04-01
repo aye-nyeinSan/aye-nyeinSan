@@ -15,7 +15,7 @@
 <h3><strong> 📙 Latest Blog Posts<strong></h3>
   
 <!-- BLOG-POST-LIST:START -->
-- [How to reduce docker image size using multiStage](https://medium.com/@ayenyeinsan/how-to-reduce-docker-image-size-using-multistage-77ba8fc1df71)
+- [How to reduce docker image size using multiStage](https://ayenyeinsan.medium.com/how-to-reduce-docker-image-size-using-multistage-77ba8fc1df71?source=rss-fecea3abd0c2------2)
 - [How to Recover an EC2 Instance After Losing the Key Pair](https://aws.plainenglish.io/how-to-recover-an-ec2-instance-after-losing-the-key-pair-74f56103c9a6?source=rss-fecea3abd0c2------2)
 - [Installing Nginx Server and Tomcat in AWS EC2 in window without WinScp](https://aws.plainenglish.io/installing-nginx-server-and-tomcat-in-aws-ec2-in-window-without-winscp-320cad9d3387?source=rss-fecea3abd0c2------2)
 - [Basic Git Useages](https://dev.to/ayenyeinsan/basic-git-useages-opb)
