@@ -8,6 +8,7 @@ Deep in the weeds of building production-grade systems—specializing in **MLOps
 ### Current Projects
 
 - 🇲🇲 [Myanmar NLP Sentiment Loop](https://github.com/myanmar-nlp) - Sentiment analysis with a human-in-the-loop feedback system + API management.
+- ⛹️‍♀️[2024 Paris Olympic report](https://project-1-olympic-report-malatang-friends-jyio.vercel.app/) - A data-driven dashboard built with Vue 3, Vite, Pinea, and TypeScript to visualize Olympic performance and insights.
 
 
 ---
