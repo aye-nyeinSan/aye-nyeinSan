@@ -1,7 +1,7 @@
 # Hi, I'm Aye Nyein San 👋
 
 
-Deep in the weeds of building production-grade systems—specializing in **MLOps pipelines**, **DevOps automation**, and **Full Stack development**. 
+Deep in the weeds of building production-grade systems—specializing in **Full Stack development** , and **Development Operations**
 
 ---
 
